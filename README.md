@@ -2,7 +2,7 @@
 <a href="https://bumbleb22.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/bumbleb22-FFD700?style=plastic&logo=FEFEFE&logoColor=FFFFFF"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyny1000&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyny1000&show_icons=true&theme=cobalt2)
 <!--
 **nyny1000/nyny1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
